@@ -1,0 +1,142 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "address": "123 Main St",
+        "phone": "555-123-4567",
+        "favorite": true
+    },
+    {
+        "name": "Alice Smith",
+        "email": "alice@example.com",
+        "address": "456 Elm St",
+        "phone": "555-987-6543",
+        "favorite": false
+    },
+    {
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "address": "789 Oak St",
+        "phone": "555-555-5555",
+        "favorite": true
+    },
+    {
+        "name": "Mary Brown",
+        "email": "mary@example.com",
+        "address": "101 Pine St",
+        "phone": "555-222-3333",
+        "favorite": false
+    },
+    {
+        "name": "David Wilson",
+        "email": "david@example.com",
+        "address": "567 Cedar St",
+        "phone": "555-888-9999",
+        "favorite": true
+    },
+    {
+        "name": "Emily Davis",
+        "email": "emily@example.com",
+        "address": "222 Maple St",
+        "phone": "555-777-6666",
+        "favorite": false
+    },
+    {
+        "name": "Michael Lee",
+        "email": "michael@example.com",
+        "address": "333 Birch St",
+        "phone": "555-333-2222",
+        "favorite": true
+    },
+    {
+        "name": "Sarah Jones",
+        "email": "sarah@example.com",
+        "address": "444 Oak St",
+        "phone": "555-111-0000",
+        "favorite": false
+    },
+    {
+        "name": "William Clark",
+        "email": "william@example.com",
+        "address": "555 Elm St",
+        "phone": "555-999-8888",
+        "favorite": true
+    },
+    {
+        "name": "Olivia Miller",
+        "email": "olivia@example.com",
+        "address": "666 Cedar St",
+        "phone": "555-444-3333",
+        "favorite": false
+    },
+    {
+        "name": "James Johnson",
+        "email": "james@example.com",
+        "address": "777 Pine St",
+        "phone": "555-666-7777",
+        "favorite": true
+    },
+    {
+        "name": "Charlotte Anderson",
+        "email": "charlotte@example.com",
+        "address": "888 Maple St",
+        "phone": "555-333-2222",
+        "favorite": false
+    },
+    {
+        "name": "Daniel Martin",
+        "email": "daniel@example.com",
+        "address": "999 Birch St",
+        "phone": "555-222-1111",
+        "favorite": true
+    },
+    {
+        "name": "Sophia White",
+        "email": "sophia@example.com",
+        "address": "1010 Oak St",
+        "phone": "555-777-5555",
+        "favorite": false
+    },
+    {
+        "name": "Joseph Garcia",
+        "email": "joseph@example.com",
+        "address": "1111 Cedar St",
+        "phone": "555-444-3333",
+        "favorite": true
+    },
+    {
+        "name": "Olivia Hernandez",
+        "email": "olivia@example.com",
+        "address": "1212 Pine St",
+        "phone": "555-111-9999",
+        "favorite": false
+    },
+    {
+        "name": "Liam Smith",
+        "email": "liam@example.com",
+        "address": "1313 Elm St",
+        "phone": "555-666-3333",
+        "favorite": true
+    },
+    {
+        "name": "Ava Rodriguez",
+        "email": "ava@example.com",
+        "address": "1414 Maple St",
+        "phone": "555-777-2222",
+        "favorite": false
+    },
+    {
+        "name": "Lucas Martinez",
+        "email": "lucas@example.com",
+        "address": "1515 Birch St",
+        "phone": "555-888-1111",
+        "favorite": true
+    },
+    {
+        "name": "Isabella Adams",
+        "email": "isabella@example.com",
+        "address": "1616 Oak St",
+        "phone": "555-999-5555",
+        "favorite": false
+    }
+]

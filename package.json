@@ -18,7 +18,9 @@
   "homepage": "https://github.com/baohkt2/B2110069_NGUYENHOAIBAO_BACKEND1#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^6.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"

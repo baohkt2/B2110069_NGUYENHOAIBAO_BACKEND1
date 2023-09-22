@@ -6,7 +6,7 @@ const MongoDB = require("../utils/mongodb.util");
 
 //************* BACKEND - PART 1 *************// 
 
-/*
+
 exports.create = (req, res) => {
     res.send({message: "create handler"});
 };
@@ -35,9 +35,10 @@ exports.findAllfavorite = (req, res) => {
     res.send({ message: "findAllfavorite handler"});
 };
 
-*/
 
-//************* BACKEND - PART 2 *************// 
+
+//************* BACKEND - PART 2 *************//
+/*
 exports.create = async (req, res, next) => {
     try {
         if (!req.body?.name) {
@@ -156,4 +157,5 @@ exports.deleteAll = async(_req, res, next) => {
         );
     }
 };
+*/
 

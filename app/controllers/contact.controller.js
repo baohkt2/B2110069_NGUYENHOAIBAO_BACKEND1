@@ -4,7 +4,7 @@ const MongoDB = require("../utils/mongodb.util");
 
 /*
 exports.create = (req, res) => {
-    res.send({message: "creat handler"});
+    res.send({message: "create handler"});
 };
 
 exports.findAll = (req, res) => {
@@ -27,11 +27,12 @@ exports.deleteAll = (req, res) => {
     res.send({ message: "deleteAll handler"});
 };
 
-exports.findAllFavorite = (req, res) => {
-    res.send({ message: "findAllFavorite handler"});
+exports.findAllfavorite = (req, res) => {
+    res.send({ message: "findAllfavorite handler"});
 };
 
 */
+
 exports.create = async (req, res, next) => {
     try {
         if (!req.body?.name) {

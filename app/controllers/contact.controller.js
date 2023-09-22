@@ -2,6 +2,10 @@ const ApiError = require("../api-error");
 const ContactService = require("../services/contact.service");
 const MongoDB = require("../utils/mongodb.util");
 
+
+
+//************* BACKEND - PART 1 *************// 
+
 /*
 exports.create = (req, res) => {
     res.send({message: "create handler"});
@@ -33,6 +37,7 @@ exports.findAllfavorite = (req, res) => {
 
 */
 
+//************* BACKEND - PART 2 *************// 
 exports.create = async (req, res, next) => {
     try {
         if (!req.body?.name) {

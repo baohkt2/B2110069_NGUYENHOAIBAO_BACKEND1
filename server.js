@@ -5,8 +5,8 @@ const MongoDB = require("./app/utils/mongodb.util");
 //start server
 async function startServer() {
     try {
-        await MongoDB.connect(config.db.uri);
-        console.log("Connected to the database!");
+    /*  await MongoDB.connect(config.db.uri);
+        console.log("Connected to the database!");    */
         const PORT = config.app.port;
         app.listen(PORT, () => {
             console.log(`Server is running on port ${PORT}`);
